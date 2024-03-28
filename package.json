@@ -1,0 +1,17 @@
+{
+  "name": "download-kb-file",
+  "version": "1.0.0",
+  "description": "Voiceflow KB Document Downloader",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NiKo | Voiceflow",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "file-type": "^19.0.0",
+    "yargs": "^17.7.2"
+  }
+}
