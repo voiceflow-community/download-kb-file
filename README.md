@@ -14,7 +14,7 @@ This Node.js application allows you to download documents from Voiceflow's API b
    First, clone this repository to your local machine using Git.
 
    ```
-   git clone https://github.com/yourusername/voiceflow-document-downloader.git
+   git clone https://github.com/voiceflow-gallagan/download-kb-file.git
    cd voiceflow-document-downloader
    ```
 
