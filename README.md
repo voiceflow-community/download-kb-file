@@ -59,3 +59,4 @@ node app.js --docid 66057447d0cef1bf8ec092b7
 The application will download the document and save it in the current directory with the correct file extension based on its detected file type.
 
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=voiceflow-community_download-kb-file&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=voiceflow-community_download-kb-file)
